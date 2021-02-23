@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "name": "Air Max 1 Atmos",
+        "image": "/assets/1.png"
+    },
+    {
+        "id": 2,
+        "name": "Jordan 1 Banned",
+        "image": "/assets/2.png"
+    },
+    {
+        "id": 3,
+        "name": "Jordan 3 Black Cement",
+        "image": "/assets/3.png"
+    },
+    {
+        "id": 4,
+        "name": "Jordan 4 Bred",
+        "image": "/assets/4.png"
+    },
+    {
+        "id": 5,
+        "name": "NSB Dunk Low Supreme Black",
+        "image": "/assets/5.png"
+    },
+    {
+        "id": 6,
+        "name": "Jordan 1 Chicago",
+        "image": "/assets/6.png"
+    },
+    {
+        "id": 7,
+        "name": "NSB Dunk Low Supreme White",
+        "image": "/assets/7.png"
+    },
+    {
+        "id": 8,
+        "name": "Air Max 98 Gundam",
+        "image": "/assets/8.png"
+    },
+    {
+        "id": 9,
+        "name": "NSB Dunk High HUF",
+        "image": "/assets/9.png"
+    },
+    {
+        "id": 10,
+        "name": "Air Max 90 Hufquake",
+        "image": "/assets/10.png"
+    },
+    {
+        "id": 11,
+        "name": "Kobe 11 Elite FTB",
+        "image": "/assets/11.png"
+    },
+    {
+        "id": 12,
+        "name": "Air Max 90 Infrared",
+        "image": "/assets/12.png"
+    },
+    {
+        "id": 13,
+        "name": "KD 4 Weatherman",
+        "image": "/assets/13.png"
+    },
+    {
+        "id": 14,
+        "name": "NSB Dunk High MF DOOM",
+        "image": "/assets/14.png"
+    },
+    {
+        "id": 15,
+        "name": "NSB Dunk Low Tiffany",
+        "image": "/assets/15.png"
+    }
+]
