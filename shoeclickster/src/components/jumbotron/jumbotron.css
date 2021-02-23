@@ -11,3 +11,9 @@
     text-align: center;
     color: white;
 }
+
+.gameScore {
+    text-align: right;
+    color: white;
+    margin-right: 75px;
+}

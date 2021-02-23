@@ -3,8 +3,10 @@ import "./card.css";
 
 function Card(props) {
     return (
-        <div className="card click-item" onClick={() => props.selectCard(props.id)}>
-            <img className="shoeCard" src={props.image} />
+        <div className='card click-item' onClick={() => props.clicked(props.id)}>
+                                       
+        
+            <img src={props.image} alt={props.name}  />
         </div>
     )
 }
