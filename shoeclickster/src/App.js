@@ -8,18 +8,18 @@ class App extends Comonent {
 
 
     render() {
-        return (
-            <Wrapper>
-                <Title>Clicky Game</Title>
-                {this.state.shoes.map(shoes => (
-                    <ShoesCard
-                    id={shoes.id}
-                    key={shoes.id}
-                    image={shoes.image}
-                    />
-                ))}
-            </Wrapper>
-        );
+        // return (
+        //     // <Wrapper>
+        //     //     <Title>Clicky Game</Title>
+        //     //     {this.state.shoes.map(shoes => (
+        //     //         <ShoesCard
+        //     //         id={shoes.id}
+        //     //         key={shoes.id}
+        //     //         image={shoes.image}
+        //     //         />
+        //     //     ))}
+        //     // </Wrapper>
+        // );
     }
 }
 
