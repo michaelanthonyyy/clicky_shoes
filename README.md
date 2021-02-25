@@ -15,7 +15,7 @@ A clicky game made using JQuery. The object of the game is to not click on the s
 
 -----------------------
 ## Deployed link
-[Link]()
+[Link](https://michaelanthonyyy.github.io/clicky_shoes/)
 
 -----------------------
 ## Code snippets
