@@ -8,7 +8,7 @@ function Jumbotron(props) {
             <br />
             <br />
             <h1 className="title">Clicky Game!</h1>
-            <h2 className="description">Click on an image to earn points, but don't click on any picture more than once!</h2>
+            <h2 className="description">{props.alert}</h2>
         </div>
     );
 }
