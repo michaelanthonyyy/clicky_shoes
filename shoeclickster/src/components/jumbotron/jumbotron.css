@@ -1,19 +1,19 @@
 .jumbotron {
-    background-color: grey;
+    background-color: black;
 }
 
 .title {
     text-align: center;
-    color: white;
+    color: darkred;
 }
 
 .description {
     text-align: center;
-    color: white;
+    color: darkred;
 }
 
 .gameScore {
     text-align: right;
-    color: white;
+    color: lightskyblue;
     margin-right: 75px;
 }
