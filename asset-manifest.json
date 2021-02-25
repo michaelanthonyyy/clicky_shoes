@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/clicky_shoes/static/css/main.c705fba7.chunk.css",
-    "main.js": "/clicky_shoes/static/js/main.456f20fd.chunk.js",
-    "main.js.map": "/clicky_shoes/static/js/main.456f20fd.chunk.js.map",
+    "main.js": "/clicky_shoes/static/js/main.3c182d3c.chunk.js",
+    "main.js.map": "/clicky_shoes/static/js/main.3c182d3c.chunk.js.map",
     "runtime-main.js": "/clicky_shoes/static/js/runtime-main.e6aed4d4.js",
     "runtime-main.js.map": "/clicky_shoes/static/js/runtime-main.e6aed4d4.js.map",
     "static/js/2.2cce29ef.chunk.js": "/clicky_shoes/static/js/2.2cce29ef.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.e6aed4d4.js",
     "static/js/2.2cce29ef.chunk.js",
     "static/css/main.c705fba7.chunk.css",
-    "static/js/main.456f20fd.chunk.js"
+    "static/js/main.3c182d3c.chunk.js"
   ]
 }
